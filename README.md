@@ -13,7 +13,7 @@ EfDS/\
 │── README.md
 
 ## Setup & requirements
-Make sure you have Python installed. You can check by running:
+Make sure you have R installed. You can check by running:
 ```sh
 r --version
 ```
